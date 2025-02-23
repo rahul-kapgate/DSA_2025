@@ -1,9 +1,16 @@
-01. Basics 
+0. Laungae 
+- python
 
-02. Array 
+1. Core Data Structures 
+   - Arrays, Linked Lists, Stacks, Queues, Binary Trees, Hash Tables  
 
-03. Linked-List
+2. Advanced Data Structures
+   - Heaps, Graphs, Tries, Union-Find  
 
-04. stack 
+3. Algorithms  
+   - Specific to Data Structures  
+   - General Techniques: Recursion, Dynamic Programming, Backtracking, Greedy Algorithms  
 
-05. Queue
+4. Understanding
+   - Learning internal workings and time complexity of operations  
+   - Write → Test → Understand Big-O  
