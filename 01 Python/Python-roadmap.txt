@@ -1,1 +1,38 @@
-hello world tets 
+chai aur puthon YT playlist
+
+01 Learn basics 
+  > basic syntax
+  >varibales and data types
+  >conditions
+  >Loops
+
+  >type casting
+  > Exceptions
+  > functions, builtin functions
+  > list , tuple, set
+  > dictionaries
+
+
+02 Data structure and Algorithm
+
+  > Array and List llist
+  > Hash table
+  > Heaps, stacks , Queues
+  > Binary Search tree
+  > Recursion
+  > Sort Algorithms
+
+
+  > builtin 
+     > Modules
+     > Lambdas
+     > Decorators
+     > iterators
+     > Regular Expressions
+  > Custom
+
+03 Object Oriented Programmig 
+
+  > classes 
+  > inheritance 
+  > methods ,Dunder     
