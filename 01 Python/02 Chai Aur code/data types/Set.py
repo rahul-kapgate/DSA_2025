@@ -3,6 +3,9 @@
 # intersection, and difference.
 
 
+from math import cos
+
+
 my_set = {1,2,3,4,5}
 my_empty_set = {} 
 empty_set = set()
@@ -45,3 +48,6 @@ print(10 in A)  # Output: False
 
 A.update(B)  # Adds all elements of B to A
 A.clear()  # Removes all elements from A
+
+new_set = {1,2,3,3} #duplicated simple ignored 
+print(new_set)  #{1, 2, 3}

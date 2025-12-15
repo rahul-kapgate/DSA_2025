@@ -6,4 +6,5 @@ def circle(radius):
 
 a, c = circle(10)
 
-print(a, c)
+print(a)
+print(c)
